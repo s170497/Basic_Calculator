@@ -1,0 +1,101 @@
+.container-fluid{
+    margin-top: 500px;
+    width: 100vmax;
+    margin-bottom: 400px;
+    
+    
+
+}
+#container{
+    background-color:lightgray;
+    background-attachment: cover;
+}
+#num{
+    padding: 55px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+    padding-right: 80px;
+    border: 1px solid black;
+    padding-left: 85px;
+
+}
+input{
+    padding: 20px;
+    width:546px;
+    color: black;
+    font-family: arial;
+    border: 1px solid white;
+    
+    
+    
+}
+#inputbox{
+    font-size: 50px;
+    
+}
+.ac{
+    padding:50px;
+    margin-right: 10px;
+    background-color:darkcyan;
+    color: white;
+    font-size: 35px;
+    font-family: arial;
+    padding-right: 48px;
+    border: 1px solid darkcyan;
+    
+}
+#operation2{
+    padding: 55px;
+    background-color:grey;
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+    padding-right: 86px;
+    border: 1px solid grey;
+
+}
+#operation1{
+    padding: 51px;
+    background-color:grey;
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+    padding-right: 82px;
+    border: 1px solid grey;
+
+}
+#operation3{
+    padding: 55px;
+    background-color:grey;
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+    padding-right: 86px;
+    border: 1px solid grey;
+
+}
+#operation4{
+    padding: 55px;
+    background-color:grey;
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+    padding-right: 86px;
+    border: 1px solid grey;
+
+}
+#num1{
+    padding: 55px;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+    padding-right: 85px;
+    border: 1px solid black;
+    padding-left: 85px;
+
+}
+
+    
